@@ -50,5 +50,4 @@ Finally, I calculated the estimated chance of reaching specific step targets bas
 
 For the full implementation of these exercises, check out the provided Python code in this repository.
 
-Feel free to explore, experiment, and contribute to further advancements in hacker statistics techniques!
 
