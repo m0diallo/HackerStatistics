@@ -4,7 +4,7 @@ Welcome to my Hacker Statistics repository. Here, I've implemented various exerc
 
 ## Case Study: Hacker Statistics
 
-In this chapter, I've applied a range of concepts learned in my course to calculate probabilities and simulate scenarios using hacker statistics techniques. Let's walk through the exercises:
+I've applied a range of concepts to calculate probabilities and simulate scenarios using hacker statistics techniques. Let's walk through the exercises:
 
 ### Random float
 
