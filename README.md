@@ -1,4 +1,4 @@
-# Hacker Statistics Readme
+# Hacker Statistics
 
 Hey there! Welcome to my Hacker Statistics repository. Here, I've implemented various exercises that apply concepts of randomness, simulations, and statistical analysis using Python.
 
